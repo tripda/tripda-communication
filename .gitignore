@@ -1,0 +1,8 @@
+vendor
+/log/*.log
+.idea/
+/build
+!/build/.gitkeep
+.vagrant
+.swp
+.swo
